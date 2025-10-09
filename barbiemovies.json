@@ -50,17 +50,18 @@
       "description": "Blair, a kind-hearted girl, is chosen to attend Princess Charm School, where she learns what it truly means to be royal—kind, brave, and honest."
     },
     {
-      "title": "Barbie: Princess Adventure",
-      "year": "2020",
-      "posterUrl": "https://m.media-amazon.com/images/M/MV5BYmQ3YWQ1M2ItNTVjMi00NjMxLWEzODUtMmI3Yzk0ZjY4NzlhXkEyXkFqcGc@._V1_.jpg",
-      "description": "Barbie and her friends travel to the kingdom of Floravia, where she learns about leadership, friendship, and being true to herself."
-    },
-    {
-      "title": "Barbie",
-      "year": "2023",
-      "posterUrl": "https://m.media-amazon.com/images/M/MV5BMGQ4ZTNiZWQtZjM5Yi00MzliLWI2ZTUtNTU3ZjQ4MjUwYTA5XkEyXkFqcGc@._V1_.jpg",
-      "description": "Living in the perfect world of Barbie Land, Barbie begins to question her reality and ventures into the real world on a journey of self-discovery."
-    }
+  "title": "Barbie in the 12 Dancing Princesses",
+  "year": "2006",
+  "posterUrl": "https://m.media-amazon.com/images/M/MV5BMTYyODUxNTE2Ml5BMl5BanBnXkFtZTcwNDY3ODcyMQ@@._V1_.jpg",
+  "description": "Barbie stars as Princess Genevieve, one of twelve royal sisters who discover a magical world where they can dance the night away. Together, they must use their love, grace, and unity to save their kingdom from a cruel duchess plotting to take over."
+},
+{
+  "title": "Barbie: A Fashion Fairytale",
+  "year": "2010",
+  "posterUrl": "https://m.media-amazon.com/images/M/MV5BMjA5ODI3ODgyM15BMl5BanBnXkFtZTcwMjcwMjE1Nw@@._V1_.jpg",
+  "description": "After being fired from her fashion job, Barbie travels to Paris to visit her aunt’s fashion house. With the help of magical flairies, she brings creativity and sparkle back to the world of fashion, proving that confidence and kindness never go out of style."
+}
+
   ]
 }
 
