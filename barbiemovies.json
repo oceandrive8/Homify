@@ -1,1 +1,65 @@
+{
+  "movies": [
+    {
+      "title": "Barbie in the Nutcracker",
+      "year": "2001",
+      "posterUrl": "https://m.media-amazon.com/images/M/MV5BZjRlZjcwYTAtMmI3Ny00Y2ZlLWEzN2EtYjYyZDQxY2EzOTBlXkEyXkFqcGc@._V1_.jpg",
+      "description": "Barbie stars as Clara, who journeys into a magical world with the Nutcracker to defeat the evil Mouse King and restore peace to the Land of Sweets."
+    },
+    {
+      "title": "Barbie as Rapunzel",
+      "year": "2002",
+      "posterUrl": "https://m.media-amazon.com/images/M/MV5BMTM0OTYxNTg1MF5BMl5BanBnXkFtZTcwMzYzMDQyMQ@@._V1_.jpg",
+      "description": "In this enchanting story, Barbie plays Rapunzel, a talented artist trapped in a tower who uses her creativity and courage to find her freedom."
+    },
+    {
+      "title": "Barbie of Swan Lake",
+      "year": "2003",
+      "posterUrl": "https://m.media-amazon.com/images/M/MV5BNjE2MjQ2MjQ3M15BMl5BanBnXkFtZTcwNjY2ODcyMQ@@._V1_.jpg",
+      "description": "Barbie portrays Odette, a young girl turned into a swan by an evil sorcerer’s curse. Only true love and bravery can restore her human form."
+    },
+    {
+      "title": "Barbie as The Princess and the Pauper",
+      "year": "2004",
+      "posterUrl": "https://m.media-amazon.com/images/M/MV5BMTYwMjQ4NzQ3MF5BMl5BanBnXkFtZTcwOTI2ODcyMQ@@._V1_.jpg",
+      "description": "Barbie plays dual roles as Princess Anneliese and pauper Erika, two girls from different worlds who switch places to save the kingdom."
+    },
+    {
+      "title": "Barbie: Fairytopia",
+      "year": "2005",
+      "posterUrl": "https://m.media-amazon.com/images/M/MV5BN2ZmNjA4YzYtZmJmZS00NTU1LTgxYzMtNTU2ZmRlOGFhZTlkXkEyXkFqcGc@._V1_.jpg",
+      "description": "In the colorful world of Fairytopia, Barbie is Elina, a wingless fairy who proves that courage and kindness can create true magic."
+    },
+    {
+      "title": "Barbie and the Diamond Castle",
+      "year": "2008",
+      "posterUrl": "https://m.media-amazon.com/images/M/MV5BMTM3Nzk1MjQyMV5BMl5BanBnXkFtZTcwMzYxOTQzMg@@._V1_.jpg",
+      "description": "Best friends Liana and Alexa discover a hidden diamond castle and the power of music to overcome evil and protect their friendship."
+    },
+    {
+      "title": "Barbie in a Mermaid Tale",
+      "year": "2010",
+      "posterUrl": "https://m.media-amazon.com/images/M/MV5BNmEwZGY0OGQtM2ZjYi00NzY3LTgyNjItYmEwN2RmZjRiMzJlXkEyXkFqcGc@._V1_.jpg",
+      "description": "Merliah, a teenage surfer from Malibu, discovers she’s half mermaid and embarks on an undersea adventure to save her mother’s ocean kingdom."
+    },
+    {
+      "title": "Barbie: Princess Charm School",
+      "year": "2011",
+      "posterUrl": "https://m.media-amazon.com/images/M/MV5BZGNhNzRhOTAtMjZmYi00YjE5LTk0NGQtNmVhNzE3ZjBkOGM2XkEyXkFqcGc@._V1_.jpg",
+      "description": "Blair, a kind-hearted girl, is chosen to attend Princess Charm School, where she learns what it truly means to be royal—kind, brave, and honest."
+    },
+    {
+      "title": "Barbie: Princess Adventure",
+      "year": "2020",
+      "posterUrl": "https://m.media-amazon.com/images/M/MV5BYmQ3YWQ1M2ItNTVjMi00NjMxLWEzODUtMmI3Yzk0ZjY4NzlhXkEyXkFqcGc@._V1_.jpg",
+      "description": "Barbie and her friends travel to the kingdom of Floravia, where she learns about leadership, friendship, and being true to herself."
+    },
+    {
+      "title": "Barbie",
+      "year": "2023",
+      "posterUrl": "https://m.media-amazon.com/images/M/MV5BMGQ4ZTNiZWQtZjM5Yi00MzliLWI2ZTUtNTU3ZjQ4MjUwYTA5XkEyXkFqcGc@._V1_.jpg",
+      "description": "Living in the perfect world of Barbie Land, Barbie begins to question her reality and ventures into the real world on a journey of self-discovery."
+    }
+  ]
+}
 
