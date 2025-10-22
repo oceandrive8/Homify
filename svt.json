@@ -85,12 +85,18 @@
 }
 ,
   {
-    "id": 7,
-    "title": "Director's Cut",
-    "year": 2018,
-    "image": "https://images.genius.com/848ab8811518709b86ed61aacf637e22.1000x1000x1.png",
-    "songs": ["Thinkin’ About You", "Thanks", "Run To You", "Falling For U"]
-  },
+  "id": 7,
+  "title": "Director's Cut",
+  "year": 2018,
+  "image": "https://images.genius.com/848ab8811518709b86ed61aacf637e22.1000x1000x1.png",
+  "songs": [
+    { "title": "Thinkin’ About You", "videoId": "fPlXiL5jbkM" },
+    { "title": "Thanks", "videoId": "gZItyr1SNjU" },
+    { "title": "Run To You", "videoId": "cFVwSKW2ySA" },
+    { "title": "Falling For U", "videoId": "VqZNDfhjF3s" }
+  ]
+}
+,
   {
     "id": 8,
     "title": "You Make My Day",
