@@ -111,12 +111,19 @@
 }
 ,
   {
-    "id": 9,
-    "title": "You Made My Dawn",
-    "year": 2019,
-    "image": "https://prodimage.images-bn.com/pimages/8809929748930_p0_v2_s1200x630.jpg",
-    "songs": ["Home", "Good to Me", "Hug", "Getting Closer", "Shhh"]
-  },
+  "id": 9,
+  "title": "You Made My Dawn",
+  "year": 2019,
+  "image": "https://prodimage.images-bn.com/pimages/8809929748930_p0_v2_s1200x630.jpg",
+  "songs": [
+    { "title": "Home", "videoId": "R9VDPMk5ls0" },
+    { "title": "Good to Me", "videoId": "9MFnF-U7x80" },
+    { "title": "Hug", "videoId": "wV8oKFqO2Gc" },
+    { "title": "Getting Closer", "videoId": "cr_lx0GSfrA" },
+    { "title": "Shhh", "videoId": "mE0xKCLDdHs" }
+  ]
+}
+,
   {
     "id": 10,
     "title": "An Ode",
