@@ -29,12 +29,19 @@
 
 ,
   {
-    "id": 3,
-    "title": "Love & Letter",
-    "year": 2016,
-    "image": "https://images.genius.com/60e42e9ddfd1aabfa43a1f5cd56bf15e.1000x1000x1.jpg",
-    "songs": ["Pretty U", "Still Lonely", "Chuck", "Popular Song", "Say Yes"]
-  },
+  "id": 3,
+  "title": "Love & Letter",
+  "year": 2016,
+  "image": "https://images.genius.com/60e42e9ddfd1aabfa43a1f5cd56bf15e.1000x1000x1.jpg",
+  "songs": [
+    { "title": "Pretty U", "videoId": "j59LLNMEOZk" },
+    { "title": "Still Lonely", "videoId": "9W3tw8lC0H8" },
+    { "title": "Chuck", "videoId": "rnTJtf2YSHc" },
+    { "title": "Popular Song", "videoId": "8lRWdJjVwD4" },
+    { "title": "Say Yes", "videoId": "wHlg6W1R3hA" }
+  ]
+}
+,
   {
     "id": 4,
     "title": "Going Seventeen",
