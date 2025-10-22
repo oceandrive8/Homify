@@ -57,12 +57,19 @@
 }
 ,
   {
-    "id": 5,
-    "title": "Al1",
-    "year": 2017,
-    "image": "https://images.genius.com/50e36a23d41907451efbeade00453fa4.1000x1000x1.png",
-    "songs": ["Don't Wanna Cry", "Habit", "If I", "Swimming Fool", "Crazy in Love"]
-  },
+  "id": 5,
+  "title": "Al1",
+  "year": 2017,
+  "image": "https://images.genius.com/50e36a23d41907451efbeade00453fa4.1000x1000x1.png",
+  "songs": [
+    { "title": "Don't Wanna Cry", "videoId": "zEkg4GBQumc" },
+    { "title": "Habit", "videoId": "MevmaoP4pEU" },
+    { "title": "If I", "videoId": "7xpka2BAhOw" },
+    { "title": "Swimming Fool", "videoId": "ODBy915P1Mg" },
+    { "title": "Crazy in Love", "videoId": "Zi_IH0pShYE" }
+  ]
+}
+,
   {
     "id": 6,
     "title": "Teen, Age",
