@@ -98,12 +98,18 @@
 }
 ,
   {
-    "id": 8,
-    "title": "You Make My Day",
-    "year": 2018,
-    "image": "https://i.discogs.com/IhTQOKz_ccfqyYYFAxnjrkr9wq3vsRGFUphjPW8Eulk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1ODIz/NzQwLTE2NzQyMDI0/MjgtMTQwNy5qcGVn.jpeg",
-    "songs": ["Oh My!", "Holiday", "Come to Me", "Our Dawn is Hotter Than Day"]
-  },
+  "id": 8,
+  "title": "You Make My Day",
+  "year": 2018,
+  "image": "https://i.discogs.com/IhTQOKz_ccfqyYYFAxnjrkr9wq3vsRGFUphjPW8Eulk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1ODIz/NzQwLTE2NzQyMDI0/MjgtMTQwNy5qcGVn.jpeg",
+  "songs": [
+    { "title": "Oh My!", "videoId": "bAfvjxOW0Og" },
+    { "title": "Holiday", "videoId": "i6SL8Zdp-oY" },
+    { "title": "Come to Me", "videoId": "cFs7cL7IgmM" },
+    { "title": "Our Dawn is Hotter Than Day", "videoId": "MAWM7Y9Wnd0" }
+  ]
+}
+,
   {
     "id": 9,
     "title": "You Made My Dawn",
