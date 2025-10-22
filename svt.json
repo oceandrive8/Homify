@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "title": "17 Carat",
+    "year": 2015,
+    "image": "https://upload.wikimedia.org/wikipedia/en/8/89/Seventeen_-_17_Carat.jpg",
+    "songs": ["Shining Diamond", "Adore U", "Ah Yeah", "Jam Jam", "20"]
+  },
+  {
+    "id": 2,
+    "title": "Boys Be",
+    "year": 2015,
+    "image": "https://upload.wikimedia.org/wikipedia/en/3/3d/Seventeen_-_Boys_Be.jpg",
+    "songs": ["Fronting", "Mansae", "When I Grow Up", "OMG", "Rock"]
+  },
+  {
+    "id": 3,
+    "title": "Love & Letter",
+    "year": 2016,
+    "image": "https://upload.wikimedia.org/wikipedia/en/8/8b/Seventeen_-_Love_%26_Letter.jpg",
+    "songs": ["Pretty U", "Still Lonely", "Chuck", "Popular Song", "Say Yes"]
+  },
+  {
+    "id": 4,
+    "title": "Going Seventeen",
+    "year": 2016,
+    "image": "https://upload.wikimedia.org/wikipedia/en/e/e3/Seventeen_-_Going_Seventeen.jpg",
+    "songs": ["Beautiful", "Boom Boom", "Highlight", "Fast Pace", "Smile Flower"]
+  },
+  {
+    "id": 5,
+    "title": "Al1",
+    "year": 2017,
+    "image": "https://upload.wikimedia.org/wikipedia/en/a/a1/Seventeen_-_Al1.jpg",
+    "songs": ["Don't Wanna Cry", "Habit", "If I", "Swimming Fool", "Crazy in Love"]
+  },
+  {
+    "id": 6,
+    "title": "Teen, Age",
+    "year": 2017,
+    "image": "https://upload.wikimedia.org/wikipedia/en/5/57/Seventeen_-_Teen%2C_Age.jpg",
+    "songs": ["Clap", "Without You", "Change Up", "Trauma", "Pinwheel"]
+  },
+  {
+    "id": 7,
+    "title": "Director's Cut",
+    "year": 2018,
+    "image": "https://upload.wikimedia.org/wikipedia/en/3/38/Seventeen_-_Director%27s_Cut.png",
+    "songs": ["Thinkin’ About You", "Thanks", "Run To You", "Falling For U"]
+  },
+  {
+    "id": 8,
+    "title": "You Make My Day",
+    "year": 2018,
+    "image": "https://upload.wikimedia.org/wikipedia/en/d/d7/Seventeen_-_You_Make_My_Day.png",
+    "songs": ["Oh My!", "Holiday", "Come to Me", "Our Dawn is Hotter Than Day"]
+  },
+  {
+    "id": 9,
+    "title": "You Made My Dawn",
+    "year": 2019,
+    "image": "https://upload.wikimedia.org/wikipedia/en/2/2c/Seventeen_-_You_Made_My_Dawn.png",
+    "songs": ["Home", "Good to Me", "Hug", "Getting Closer", "Shhh"]
+  },
+  {
+    "id": 10,
+    "title": "An Ode",
+    "year": 2019,
+    "image": "https://upload.wikimedia.org/wikipedia/en/f/f2/Seventeen_-_An_Ode.png",
+    "songs": ["Fear", "Lie Again", "247", "Snap Shoot", "Second Life"]
+  },
+  {
+    "id": 11,
+    "title": "Face the Sun",
+    "year": 2022,
+    "image": "https://upload.wikimedia.org/wikipedia/en/b/b4/Seventeen_-_Face_the_Sun.png",
+    "songs": ["HOT", "Don Quixote", "March", "Domino", "Shadow"]
+  },
+  {
+    "id": 12,
+    "title": "FML",
+    "year": 2023,
+    "image": "https://upload.wikimedia.org/wikipedia/en/9/9b/Seventeen_-_FML.png",
+    "songs": ["Super", "Fire", "I Don’t Understand But I Luv U", "April shower", "Dust"]
+  }
+]
