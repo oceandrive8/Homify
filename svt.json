@@ -43,12 +43,19 @@
 }
 ,
   {
-    "id": 4,
-    "title": "Going Seventeen",
-    "year": 2016,
-    "image": "https://levyikkuna.fi/tiedostot/119/kuva/tuote/alkuperainen/20346.png",
-    "songs": ["Beautiful", "Boom Boom", "Highlight", "Fast Pace", "Smile Flower"]
-  },
+  "id": 4,
+  "title": "Going Seventeen",
+  "year": 2016,
+  "image": "https://levyikkuna.fi/tiedostot/119/kuva/tuote/alkuperainen/20346.png",
+  "songs": [
+    { "title": "Beautiful", "videoId": "TVaeTwHc2Lc" },
+    { "title": "Boom Boom", "videoId": "CNEeAaH3bFc" },
+    { "title": "Highlight", "videoId": "A956lNNVTz0" },
+    { "title": "Fast Pace", "videoId": "iJnidUQBuDw" },
+    { "title": "Smile Flower", "videoId": "PFCQiURzLkk" }
+  ]
+}
+,
   {
     "id": 5,
     "title": "Al1",
