@@ -124,25 +124,46 @@
   ]
 }
 ,
+ {
+  "id": 10,
+  "title": "An Ode",
+  "year": 2019,
+  "image": "https://upload.wikimedia.org/wikipedia/en/6/66/Seventeen_-_An_Ode.png",
+  "songs": [
+    { "title": "Fear", "videoId": "ap14O5-G7UA" },
+    { "title": "Lie Again", "videoId": "ZUMkVC1AWN0" },
+    { "title": "247", "videoId": "Wr0RQWq58jM" },
+    { "title": "Snap Shoot", "videoId": "VqfiJCCbTjY" },
+    { "title": "Second Life", "videoId": "-kcG8UjJAeM" }
+  ]
+}
+,
   {
-    "id": 10,
-    "title": "An Ode",
-    "year": 2019,
-    "image": "https://upload.wikimedia.org/wikipedia/en/6/66/Seventeen_-_An_Ode.png",
-    "songs": ["Fear", "Lie Again", "247", "Snap Shoot", "Second Life"]
-  },
-  {
-    "id": 11,
-    "title": "Face the Sun",
-    "year": 2022,
-    "image": "https://kpoptime.com.au/cdn/shop/files/17-FaceTheSun_Ep3-Ray_580x.jpg?v=1713144704",
-    "songs": ["HOT", "Don Quixote", "March", "Domino", "Shadow"]
-  },
-  {
-    "id": 12,
-    "title": "FML",
-    "year": 2023,
-    "image": "https://t2.genius.com/unsafe/600x600/https%3A%2F%2Fimages.genius.com%2Fe653b69af606b96c3cc3a7d6e94526c0.1000x1000x1.png",
-    "songs": ["Super", "Fire", "I Don’t Understand But I Luv U", "April shower", "Dust"]
-  }
+  "id": 11,
+  "title": "Face the Sun",
+  "year": 2022,
+  "image": "https://kpoptime.com.au/cdn/shop/files/17-FaceTheSun_Ep3-Ray_580x.jpg?v=1713144704",
+  "songs": [
+    { "title": "HOT", "videoId": "gRnuFC4Ualw" },
+    { "title": "Don Quixote", "videoId": "qe3xiljKPM8" },
+    { "title": "March", "videoId": "dDiMaUFBvq4" },
+    { "title": "Domino", "videoId": "UdJQIG5YWG0" },
+    { "title": "Shadow", "videoId": "iMeRzDphbuc" }
+  ]
+}
+,
+ {
+  "id": 12,
+  "title": "FML",
+  "year": 2023,
+  "image": "https://t2.genius.com/unsafe/600x600/https%3A%2F%2Fimages.genius.com%2Fe653b69af606b96c3cc3a7d6e94526c0.1000x1000x1.png",
+  "songs": [
+    { "title": "Super", "videoId": "9rUFQJrCT7M" },
+    { "title": "Fire", "videoId": "CyzEtbG-sxY" },
+    { "title": "I Don’t Understand But I Luv U", "videoId": "tLQLa6lM3Us" },
+    { "title": "April Shower", "videoId": "o6uR4-DM9uY" },
+    { "title": "Dust", "videoId": "J-wFp43XOrA" }
+  ]
+}
+
 ]
