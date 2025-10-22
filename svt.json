@@ -7,9 +7,9 @@
   "songs": [
     { "title": "Shining Diamond", "videoId": "aEZErcMf2Kg" },
     { "title": "Adore U", "videoId": "9rUFQJrCT7M" },
-    { "title": "Ah Yeah", "video": "https://www.youtube.com/watch?v=4W9xkh7nG20" },
-    { "title": "Jam Jam", "video": "https://www.youtube.com/watch?v=QXjR8vMEnWk" },
-    { "title": "20", "video": "https://www.youtube.com/watch?v=jG3t6_yU81g" }
+    { "title": "Ah Yeah", "videoId": "A0CDNyVssng" },
+    { "title": "Jam Jam", "videoId": "https://www.youtube.com/watch?v=QXjR8vMEnWk" },
+    { "title": "20", "videoId": "https://www.youtube.com/watch?v=jG3t6_yU81g" }
   ]
 }
 
