@@ -1,42 +1,49 @@
 {
   "movies": [
     {
+      "id": 1,
       "title": "Barbie in the Nutcracker",
       "year": "2001",
       "posterUrl": "https://m.media-amazon.com/images/M/MV5BZTE0OWE5ZTctM2U2YS00MWQyLWFkODAtMjI3Mzg0MWY3ZmQ5XkEyXkFqcGc@._V1_.jpg",
       "description": "Barbie stars as Clara, who journeys into a magical world with the Nutcracker to defeat the evil Mouse King and restore peace to the Land of Sweets."
     },
     {
+      "id": 2,
       "title": "Barbie as Rapunzel",
       "year": "2002",
       "posterUrl": "https://barbiecinematicuniverse.com/wp-content/uploads/2023/10/image-2.png",
       "description": "In this enchanting story, Barbie plays Rapunzel, a talented artist trapped in a tower who uses her creativity and courage to find her freedom."
     },
     {
+      "id": 3,
       "title": "Barbie of Swan Lake",
       "year": "2003",
       "posterUrl": "https://m.media-amazon.com/images/M/MV5BYTg3NmEzM2EtMzQ4ZS00YzQwLTk5ZWUtOWFlZjU3NWFjYzdkXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
       "description": "Barbie portrays Odette, a young girl turned into a swan by an evil sorcerer’s curse. Only true love and bravery can restore her human form."
     },
     {
+      "id": 4,
       "title": "Barbie as The Princess and the Pauper",
       "year": "2004",
       "posterUrl": "https://iv1.lisimg.com/image/8560196/475full-barbie-as-the-princess-and-the-pauper-poster.jpg",
       "description": "Barbie plays dual roles as Princess Anneliese and pauper Erika, two girls from different worlds who switch places to save the kingdom."
     },
     {
+      "id": 5,
       "title": "Barbie: Fairytopia",
       "year": "2005",
       "posterUrl": "https://1.allegroimg.com/s512/06655f/3399eed64c709421ad458d84a1b1/Barbie-Fairytopia-Wrozkolandia",
       "description": "In the colorful world of Fairytopia, Barbie is Elina, a wingless fairy who proves that courage and kindness can create true magic."
     },
     {
+      "id": 6,
       "title": "Barbie and the Diamond Castle",
       "year": "2008",
       "posterUrl": "https://m.media-amazon.com/images/M/MV5BMjA1MDgwNDk2OV5BMl5BanBnXkFtZTgwMTM4MjA2MDE@._V1_.jpg",
       "description": "Best friends Liana and Alexa discover a hidden diamond castle and the power of music to overcome evil and protect their friendship."
     },
     {
+      "id": 7,
   "title": "Barbie and the Three Musketeers",
   "year": "2009",
   "posterUrl": "https://films.bz/uploads/posts/2019-09/barbi-i-tri-mushketera-video_iphone360_470700.jpg",
@@ -44,18 +51,21 @@
 }
 ,
     {
+      "id": 8,
       "title": "Barbie: Princess Charm School",
       "year": "2011",
       "posterUrl": "https://upload.wikimedia.org/wikipedia/en/c/c0/Barbie_Princess_Charm_School.jpg",
       "description": "Blair, a kind-hearted girl, is chosen to attend Princess Charm School, where she learns what it truly means to be royal—kind, brave, and honest."
     },
     {
+      "id": 9,
   "title": "Barbie in the 12 Dancing Princesses",
   "year": "2006",
   "posterUrl": "https://m.media-amazon.com/images/M/MV5BMmVkNDNiMmUtYzU0NS00ODdhLThmMGItMDEwMjUzNWNlMTY1XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
   "description": "Barbie stars as Princess Genevieve, one of twelve royal sisters who discover a magical world where they can dance the night away. Together, they must use their love, grace, and unity to save their kingdom from a cruel duchess plotting to take over."
 },
 {
+  "id": 10,
   "title": "Barbie: A Fashion Fairytale",
   "year": "2010",
   "posterUrl": "https://m.media-amazon.com/images/M/MV5BOGUxNjRkMzQtZjZlNi00ZjNlLWFkNjYtMTQ5YzBhNjdjNmNkXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
