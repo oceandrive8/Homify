@@ -7,10 +7,10 @@
       "posterUrl": "https://m.media-amazon.com/images/M/MV5BZTE0OWE5ZTctM2U2YS00MWQyLWFkODAtMjI3Mzg0MWY3ZmQ5XkEyXkFqcGc@._V1_.jpg",
       "description": "Barbie stars as Clara, who journeys into a magical world with the Nutcracker to defeat the evil Mouse King and restore peace to the Land of Sweets.",
       "director": "Omar Aqil",
-  "genre": "Fantasy, Adventure, Family",
-  "duration": "1h 20m",
-  "rating": "PG",
-  "language": "English"
+      "genre": "Fantasy, Adventure, Family",
+      "duration": "1h 20m",
+      "rating": "PG",
+      "language": "English"
     },
     {
       "id": 2,
@@ -18,11 +18,11 @@
       "year": "2002",
       "posterUrl": "https://barbiecinematicuniverse.com/wp-content/uploads/2023/10/image-2.png",
       "description": "In this enchanting story, Barbie plays Rapunzel, a talented artist trapped in a tower who uses her creativity and courage to find her freedom.",
-       "director": "Omar Aqil",
-  "genre": "Fantasy, Adventure, Family",
-  "duration": "1h 16m",
-  "rating": "G",
-  "language": "English"
+      "director": "Omar Aqil",
+      "genre": "Fantasy, Adventure, Family",
+      "duration": "1h 16m",
+      "rating": "G",
+      "language": "English"
     },
     {
       "id": 3,
@@ -31,10 +31,10 @@
       "posterUrl": "https://m.media-amazon.com/images/M/MV5BYTg3NmEzM2EtMzQ4ZS00YzQwLTk5ZWUtOWFlZjU3NWFjYzdkXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
       "description": "Barbie portrays Odette, a young girl turned into a swan by an evil sorcerer’s curse. Only true love and bravery can restore her human form.",
       "director": "Omar Aqil",
-  "genre": "Fantasy, Adventure, Family",
-  "duration": "1h 22m",
-  "rating": "G",
-  "language": "English"
+      "genre": "Fantasy, Adventure, Family",
+      "duration": "1h 22m",
+      "rating": "G",
+      "language": "English"
     },
     {
       "id": 4,
@@ -43,10 +43,10 @@
       "posterUrl": "https://iv1.lisimg.com/image/8560196/475full-barbie-as-the-princess-and-the-pauper-poster.jpg",
       "description": "Barbie plays dual roles as Princess Anneliese and pauper Erika, two girls from different worlds who switch places to save the kingdom.",
       "director": "William Lau",
-  "genre": "Fantasy, Musical, Family",
-  "duration": "1h 10m",
-  "rating": "G",
-  "language": "English"
+      "genre": "Fantasy, Musical, Family",
+      "duration": "1h 10m",
+      "rating": "G",
+      "language": "English"
     },
     {
       "id": 5,
@@ -54,11 +54,11 @@
       "year": "2005",
       "posterUrl": "https://1.allegroimg.com/s512/06655f/3399eed64c709421ad458d84a1b1/Barbie-Fairytopia-Wrozkolandia",
       "description": "In the colorful world of Fairytopia, Barbie is Elina, a wingless fairy who proves that courage and kindness can create true magic.",
-       "director": "Walter P. Martishius",
-  "genre": "Fantasy, Adventure, Family",
-  "duration": "1h 16m",
-  "rating": "G",
-  "language": "English
+      "director": "Walter P. Martishius",
+      "genre": "Fantasy, Adventure, Family",
+      "duration": "1h 16m",
+      "rating": "G",
+      "language": "English"
     },
     {
       "id": 6,
@@ -67,24 +67,23 @@
       "posterUrl": "https://m.media-amazon.com/images/M/MV5BMjA1MDgwNDk2OV5BMl5BanBnXkFtZTgwMTM4MjA2MDE@._V1_.jpg",
       "description": "Best friends Liana and Alexa discover a hidden diamond castle and the power of music to overcome evil and protect their friendship.",
       "director": "Gina Shay",
-  "genre": "Fantasy, Musical, Family",
-  "duration": "1h 20m",
-  "rating": "G",
-  "language": "English"
+      "genre": "Fantasy, Musical, Family",
+      "duration": "1h 20m",
+      "rating": "G",
+      "language": "English"
     },
     {
       "id": 7,
-  "title": "Barbie and the Three Musketeers",
-  "year": "2009",
-  "posterUrl": "https://films.bz/uploads/posts/2019-09/barbi-i-tri-mushketera-video_iphone360_470700.jpg",
-  "description": "Barbie stars as Corinne, a courageous young woman from the countryside who dreams of becoming a Musketeer in Paris. Along with her three friends, she discovers that true strength comes from teamwork and bravery as they protect the prince and prove that girls can do anything.",
+      "title": "Barbie and the Three Musketeers",
+      "year": "2009",
+      "posterUrl": "https://films.bz/uploads/posts/2019-09/barbi-i-tri-mushketera-video_iphone360_470700.jpg",
+      "description": "Barbie stars as Corinne, a courageous young woman from the countryside who dreams of becoming a Musketeer in Paris. Along with her three friends, she discovers that true strength comes from teamwork and bravery as they protect the prince and prove that girls can do anything.",
       "director": "William Lau",
-  "genre": "Adventure, Family, Fantasy",
-  "duration": "1h 25m",
-  "rating": "G",
-  "language": "English"
-}
-,
+      "genre": "Adventure, Family, Fantasy",
+      "duration": "1h 25m",
+      "rating": "G",
+      "language": "English"
+    },
     {
       "id": 8,
       "title": "Barbie: Princess Charm School",
@@ -92,36 +91,36 @@
       "posterUrl": "https://upload.wikimedia.org/wikipedia/en/c/c0/Barbie_Princess_Charm_School.jpg",
       "description": "Blair, a kind-hearted girl, is chosen to attend Princess Charm School, where she learns what it truly means to be royal—kind, brave, and honest.",
       "director": "Zeke Norton",
-  "genre": "Fantasy, Family, Adventure",
-  "duration": "1h 20m",
-  "rating": "G",
-  "language": "English"
+      "genre": "Fantasy, Family, Adventure",
+      "duration": "1h 20m",
+      "rating": "G",
+      "language": "English"
     },
     {
       "id": 9,
-  "title": "Barbie in the 12 Dancing Princesses",
-  "year": "2006",
-  "posterUrl": "https://m.media-amazon.com/images/M/MV5BMmVkNDNiMmUtYzU0NS00ODdhLThmMGItMDEwMjUzNWNlMTY1XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-  "description": "Barbie stars as Princess Genevieve, one of twelve royal sisters who discover a magical world where they can dance the night away. Together, they must use their love, grace, and unity to save their kingdom from a cruel duchess plotting to take over.",
+      "title": "Barbie in the 12 Dancing Princesses",
+      "year": "2006",
+      "posterUrl": "https://m.media-amazon.com/images/M/MV5BMmVkNDNiMmUtYzU0NS00ODdhLThmMGItMDEwMjUzNWNlMTY1XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+      "description": "Barbie stars as Princess Genevieve, one of twelve royal sisters who discover a magical world where they can dance the night away. Together, they must use their love, grace, and unity to save their kingdom from a cruel duchess plotting to take over.",
       "director": "Greg Richardson",
-  "genre": "Fantasy, Musical, Family",
-  "duration": "1h 19m",
-  "rating": "G",
-  "language": "English"
-},
-{
-  "id": 10,
-  "title": "Barbie: A Fashion Fairytale",
-  "year": "2010",
-  "posterUrl": "https://m.media-amazon.com/images/M/MV5BOGUxNjRkMzQtZjZlNi00ZjNlLWFkNjYtMTQ5YzBhNjdjNmNkXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-  "description": "After being fired from her fashion job, Barbie travels to Paris to visit her aunt’s fashion house. With the help of magical flairies, she brings creativity and sparkle back to the world of fashion, proving that confidence and kindness never go out of style.",
-  "director": "William Lau",
-  "genre": "Fantasy, Family, Adventure",
-  "duration": "1h 17m",
-  "rating": "G",
-  "language": "English"
-}
-
+      "genre": "Fantasy, Musical, Family",
+      "duration": "1h 19m",
+      "rating": "G",
+      "language": "English"
+    },
+    {
+      "id": 10,
+      "title": "Barbie: A Fashion Fairytale",
+      "year": "2010",
+      "posterUrl": "https://m.media-amazon.com/images/M/MV5BOGUxNjRkMzQtZjZlNi00ZjNlLWFkNjYtMTQ5YzBhNjdjNmNkXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+      "description": "After being fired from her fashion job, Barbie travels to Paris to visit her aunt’s fashion house. With the help of magical fairies, she brings creativity and sparkle back to the world of fashion, proving that confidence and kindness never go out of style.",
+      "director": "William Lau",
+      "genre": "Fantasy, Family, Adventure",
+      "duration": "1h 17m",
+      "rating": "G",
+      "language": "English"
+    }
   ]
 }
+
 
